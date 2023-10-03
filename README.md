@@ -25,14 +25,12 @@ I am an accomplished full-stack software developer with expertise in both fronte
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&logoColor=white)
 
-#### Version Control
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
-
 #### Development Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white)
 
-
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
 
 <!--
 **omari25/omari25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
