@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# I'm Omar Mahat
+
+I am an accomplished full-stack software developer with expertise in both frontend and backend technologies. I excel in designing intuitive user interfaces and crafting robust, efficient server-side solutions. My skills include programming languages like JavaScript, React, Python, and Ruby and a keen understanding of various frameworks and databases.
+
 <!--
 **omari25/omari25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
