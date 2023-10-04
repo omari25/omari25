@@ -30,9 +30,9 @@ I am an accomplished full-stack software developer with expertise in both fronte
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
 
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omari25&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omari25)
-
 <!--
 **omari25/omari25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
