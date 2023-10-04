@@ -28,8 +28,6 @@ I am an accomplished full-stack software developer with expertise in both fronte
 #### Development Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white)
-
-#### Version Control
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
 
 <!--
